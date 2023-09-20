@@ -1,4 +1,4 @@
-# PyQt-MP4-to-GIF-Convertor-App
+# PyQt-FFMpeg-MP4-to-GIF-Convertor-App
 
 Python 3.11\
 MP4 to GIF converter using FFMpeg and PyQt
