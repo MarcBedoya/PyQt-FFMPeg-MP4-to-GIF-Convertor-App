@@ -7,7 +7,7 @@ MP4 to GIF converter using FFMpeg and PyQt
 
 #### Required:
 Python library - cv2\
-Python library - PySide6 (Qt for python)
+Python library - PySide6 (Qt for python)\
 FFMpeg
 
 ## HOW TO USE
